@@ -1,7 +1,5 @@
-# Headline
+# 废话少说，放码过来
 
-> An awesome project.
- 
-Hello tjy!
+> 整理一些技术文章，便于日后快速回顾和复习。
 
-[操作指南](guide)
+> 狗子勇敢飞！
