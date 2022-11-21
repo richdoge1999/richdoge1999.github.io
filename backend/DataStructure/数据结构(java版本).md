@@ -60,6 +60,7 @@ for (int i = 0;i < n;i++){ //循环n次
 
 
 
+
 ### 3.选择排序Selection
 
 #### 原理（一共n+1个元素）
@@ -153,7 +154,6 @@ public static void Merge(int[] a,int lo,int mid,int hi){
 ```java
 int[] a = {1,5,2,7,9,4,0};
 int n = a.length - 1;
-
 ```
 
 
